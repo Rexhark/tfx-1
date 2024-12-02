@@ -1,2 +1,2 @@
 # About
-Dicoding Submission MLOps Loan Approval Classification using ML Pipeline
+Dicoding Submission MLOps Twitter Sentiment Analysis Classification using ML Pipeline
